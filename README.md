@@ -16,3 +16,6 @@ Proyek data science ini bertujuan memprediksi keterlambatan pengiriman berdasark
 
 **Dataset**
 - [dataset.csv](https://drive.google.com/file/d/1mhUQq6zMee7bmKQs85jEJIP45oehV75A/view?usp=sharing)
+
+- **Referensi**
+- [Chakole,A. (2024) Data Science Project #01: Predicting Shipment Delivery Time](https://medium.com/@anupchakole/data-science-project-01-predicting-shipment-delivery-time-f50c8c8e9fe8)
