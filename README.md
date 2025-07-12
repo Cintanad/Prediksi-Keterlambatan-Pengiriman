@@ -10,7 +10,7 @@ Proyek data science ini bertujuan memprediksi keterlambatan pengiriman berdasark
 - Notebook: [Google Colab Link](https://colab.research.google.com/drive/1GlgUQG2TUt4vpMuNysRELHgD4kz2LxIB?usp=sharing)
 
 **Hasil Utama**
-- Fitur paling berpengaruh: berat produk & diskon
+- Fitur paling berpengaruh: Berat produk & diskon
 - Model terbaik: Random Forest
 - Produk berat cenderung terlambat, diskon tinggi cenderung tepat waktu
 
